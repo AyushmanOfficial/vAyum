@@ -1,0 +1,13 @@
+vim.opt.number = true -- show the numbers
+vim.opt.relativenumber = true -- relative line numbers
+vim.opt.mouse = "a" -- enable mice ( WHAT DID YOU SAY ? )
+vim.opt.clipboard = "unnamedplus" -- use system clipboard
+vim.opt.tabstop = 2 -- tab IS 2 spaces not MORE nor LESS
+vim.opt.shiftwidth = 2 -- >> or << IS 2 spaces not MORE nor LESS
+vim.opt.expandtab = true -- tabs are... spaces in disguise
+vim.opt.smartindent = true -- indent the lines automagically
+vim.opt.scrolloff = 8 -- scroll offset
+vim.opt.signcolumn = "yes" -- always show sign column
+vim.opt.termguicolors = true -- those truthful colors you need em'
+vim.opt.undofile = true -- undo doesn't have memory loss anymore
+vim.opt.cursorline = true -- know which line you are on.
