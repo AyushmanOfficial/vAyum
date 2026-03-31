@@ -1,6 +1,6 @@
 # ⚡ vAyum - Blazingly Lazy. Witty. Modular.
 
-**vAyum** is my Neovim config/(distro... not technically) - fast, minimal, plugin-powered, and built for devs who like their rice crispy and their editor snappy.
+**vAyum** is my Neovim config/(distro... not technically) - fast, minimal, plugin-powered, and built for devs who like their rice spicy and their editor snappy.
 
 ---
 
