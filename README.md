@@ -9,7 +9,7 @@ I’m currently running about **28 plugins**, but the startup is still instant. 
 ## 📑 Index
 
 - [🚀 Quick Start](#-quick-start)
-- [⚙️ Stuff You Need](#-stuff-you-need)
+- [⚙️ Stuff You Need](#%EF%B8%8F-stuff-you-need)
 
 - [✨ What's Inside](#-whats-inside)
 - [🧩 Plugin List](#-plugin-list)
